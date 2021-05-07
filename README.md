@@ -40,6 +40,10 @@ For Torchvision installation
 ```
 sudo apt-get install libjpeg-dev zlib1g-dev libpython3-dev libavcodec-dev libavformat-dev libswscale-dev
 git clone --branch <version> https://github.com/pytorch/vision torchvision   # see below for version of torchvision to download
+
+Example:
+git clone --branch v0.1.8 https://github.com/pytorch/vision torchvision
+
 cd torchvision
 export BUILD_VERSION=0.x.0  # where 0.x.0 is the torchvision version  
 python3 setup.py install --user
