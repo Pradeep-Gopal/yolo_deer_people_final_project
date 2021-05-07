@@ -1,0 +1,231 @@
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1005-_jpg.rf.9d582d14fe2d3d89d192a528ae2319ff.jpg 58,179,79,274,0 240,208,282,291,0 311,229,342,302,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1011-_jpg.rf.394049a66f39af901a7b82e836dcde3b.jpg
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1024-_jpg.rf.6cc647739cef04320e973b7f12d351db.jpg 106,240,137,323,0 141,212,193,295,0 188,111,293,275,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1036-_jpg.rf.c42c6d29e3b4be5aa58b29c5a2169387.jpg 1,12,331,375,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1059-_jpg.rf.ea14a8579e6769d12d006dc97298e8b2.jpg 187,206,301,350,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1067-_jpg.rf.4bb5aa65a7cc4326bd1ee5b04a5a7567.jpg 140,44,293,350,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/10854077923_e1d38c29e2_o_jpg.rf.cadab88da7962911a8a015c066bceabb.jpg 187,57,278,122,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1092-_jpg.rf.14e8446a9a6fdedea9c8e835ff2b1505.jpg 114,15,376,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1107-_jpg.rf.473bd2e5e2a6a7b5e2ae3bf142467d93.jpg 118,31,348,347,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1110-_jpg.rf.86956173190bd2cedb2434718816054d.jpg 72,127,212,332,0 214,86,295,233,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1113-_jpg.rf.8d01803c9cd331acf7bf01bc0adfe657.jpg 28,137,197,370,0 168,52,374,357,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1122-_jpg.rf.ff0fcfe8612f5b47e9af413750c85a11.jpg 88,81,276,326,0 23,55,130,198,0 237,44,400,290,0 298,58,342,136,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/114-_jpg.rf.aa4ba791db1ae2c0d9e5cb809a66ffb1.jpg 74,74,320,393,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1152-_jpg.rf.7f8f618c8adeaf11368461b5dde86617.jpg 235,203,324,345,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/11581880536_d145871e76_o_jpg.rf.a4714892d43107ae3f8b38c8b152f25f.jpg 92,127,332,393,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1160-_jpg.rf.28caabd91e6f66badb64f0188b75daf7.jpg 21,6,358,405,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1161-_jpg.rf.b2804ad1b13a8036fead3e6137c7513d.jpg 158,94,347,370,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1183-_jpg.rf.4b2cf448972562bdefe75b07862509e3.jpg 219,128,284,303,0 252,99,385,303,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1188-_jpg.rf.22d8120347710f460d2d75ad6eed7234.jpg 97,26,309,383,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1193-_jpg.rf.48cb8dbe0e12589658f60bfb5b384ae4.jpg 239,274,264,356,0 317,219,378,343,0 172,247,229,376,0 143,275,170,354,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1199-_jpg.rf.d061eb4d9ba275b74357462fb4c4d467.jpg 125,95,308,414,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1205-_jpg.rf.d85747d82e6d1d5abea5b036ceb41d17.jpg 32,6,412,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1211-_jpg.rf.4480fc30c00b53688531eb6329c0b7f7.jpg 48,10,340,374,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1212-_jpg.rf.6e50d9a8354577ecda96a19415ed5832.jpg 40,15,413,403,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1217-_jpg.rf.b307c16f53ef0c194cbaecde85913a01.jpg 123,89,310,337,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1219-_jpg.rf.1336d832681e39149f30ed6559463bb9.jpg 99,73,269,416,0 283,55,417,233,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1221-_jpg.rf.9210657502662db4a4df76308bdb3550.jpg 87,33,291,352,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1222-_jpg.rf.1bb4b5c092a9cbccf376aa827f14ccf4.jpg 104,67,383,349,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/123-_jpg.rf.b77c88339bb87ec655468d74bdd5eb4b.jpg 146,108,324,400,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1237-_jpg.rf.b3384f1fe9b479defa7fa80f26f58b3d.jpg 37,12,287,411,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1241-_jpg.rf.181225ef7327b7b368ab50a5fa6fe424.jpg 159,16,380,367,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1244-_jpg.rf.d2d97bb28dbef04d732c08ce30ffe02d.jpg 98,180,246,334,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1248-_jpg.rf.e055a1fb5b4705c4823c65ee3c20280f.jpg 16,60,382,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1251-_jpg.rf.b822b9786d7c40df2abdde6f294e8b8b.jpg 85,3,413,402,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/12619831454_0e80f83c54_o_jpg.rf.b357f8b7b564656175abd1ae118f6dcb.jpg 72,38,256,329,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1266-_jpg.rf.612d9de8256ffc2b6bbbe4600ecef5fa.jpg 138,50,232,329,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/127-_jpg.rf.6577ec1c3fe609cb45427257aef4f306.jpg 122,95,408,414,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/129-_jpg.rf.21ff0cee746a2116de615b589e0e10c2.jpg 148,168,251,283,0 68,195,146,274,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1298-_jpg.rf.86825ec06be2a5ababdf65c7d63736e7.jpg 246,136,304,289,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/130-_jpg.rf.5ad4cbb90072ae498050b0481408f42c.jpg 91,31,329,389,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1312-_jpg.rf.f510004ac817b3f6e702851176d92836.jpg 5,85,102,366,0 134,25,241,380,0 237,91,283,196,0 281,100,397,416,0 224,7,389,172,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1321-_jpg.rf.13dc078487272bb13f27b4bf1d9d541c.jpg 67,66,342,406,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1333-_jpg.rf.145a3a2594330cd135db8ec205f12fe4.jpg 54,162,169,325,0 215,178,330,353,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1337-_jpg.rf.c9e33ca2fdf32cf1ec537c3ba3070526.jpg 65,110,221,370,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/135-_jpg.rf.85d601753de8356d8059aecd69addef8.jpg 134,43,250,346,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1350-_jpg.rf.59aa598e89846c83894c596a54659e08.jpg 156,92,392,348,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1355-_jpg.rf.2b881194820dc8f500f143c16e47f653.jpg 72,30,284,391,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1365-_jpg.rf.d16419ca78992f44354141cac3c5e01a.jpg 20,5,388,399,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1376-_jpg.rf.42fc92cfb060e0bfbf7af1ae635e9420.jpg 92,18,294,316,0 97,58,333,291,0 337,39,417,271,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1387-_jpg.rf.504e880aee3219c03aa7b672b17675d5.jpg 56,83,314,376,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1388-_jpg.rf.8e90b060ecef24f2b9f4c630a5c3d663.jpg 6,124,264,417,0 172,19,415,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/13914660675_19b4d02569_o_jpg.rf.992ceb4b80e1088ef870b8d0ea865b85.jpg 194,215,232,283,1 317,67,352,213,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/140-_jpg.rf.cf40b61f01e18adea8cd9a47b3eb2969.jpg 103,110,345,405,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/142-_jpg.rf.2271802a00efc88a5a5f8ebdab828d2f.jpg 41,84,302,339,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/14385442070_8a60c5788d_b_jpg.rf.b7a00ddeacf01dc16d6b07bde1a5a9af.jpg 213,153,242,188,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1460-_jpg.rf.09fe5f4644f29c09cb64db8f75f403a2.jpg 49,3,296,327,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1461-_jpg.rf.658782500868b56086e0db784b7354f1.jpg 26,65,263,327,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1471-_jpg.rf.d6ef3c05217bf0309b8563e46f532052.jpg 98,84,294,355,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/14729408224_2448e04c94_o_jpg.rf.3843b765b7c93d21adf155743794d46b.jpg 239,62,379,294,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1476-_jpg.rf.bd4103408de0fa40bdd00f5c5e4aa63e.jpg 119,61,307,407,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/1478-_jpg.rf.e6fbab7590f536d8fb3733a6a5aebad2.jpg 147,173,271,315,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/14856818215_27a3b57a3a_b_jpg.rf.53638b95e8ca514fc886e65e3e653b10.jpg 157,69,221,182,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/14891261797_dd27d58533_o_jpg.rf.c34c0bbb2ce494e5d34071d37159c720.jpg 150,111,327,282,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/168-_jpg.rf.ca866b6c4269fe4a2ca55c1f33208020.jpg 107,85,325,319,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/17-_jpg.rf.ca00a642d7d91eb318cc2f555bf66df9.jpg 144,66,341,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/182-_jpg.rf.f9192956157781f169dc53d59af7407a.jpg 55,28,170,275,0 142,17,273,297,0 312,38,373,276,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/194-_jpg.rf.95c00070733befa448c9e74b4e0d6d02.jpg 102,17,407,408,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/195-_jpg.rf.d29fd1065f9f824766dbb82cd444bc56.jpg 58,28,411,395,0 3,37,165,233,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2001-_jpg.rf.f038ce97d71c8541867521fb24872f9e.jpg 26,197,72,272,0 284,201,376,271,0 286,146,378,230,0 393,179,416,247,0 170,167,265,258,0 186,157,237,195,0 133,214,207,278,0 85,157,167,263,0 74,170,138,247,0 135,168,203,231,0 185,145,276,221,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2006-_jpg.rf.a681dacb396a71aead66274ccd7a8690.jpg 64,41,357,395,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2010-_jpg.rf.df87c24bacf47e6eff7a0b2c47f402f3.jpg 165,211,198,312,0 237,209,294,293,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2038-_jpg.rf.600df840ac92e79a2537ac84575626f4.jpg 76,99,359,391,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2051-_jpg.rf.598a81758d828286adc644fa6493ad76.jpg 14,29,386,409,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2052-_jpg.rf.980b46ebf3d06890676f419e3397ab2f.jpg 201,25,411,417,0 2,154,244,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2058-_jpg.rf.ad22a15ec6280e70c2f42ad03ac48430.jpg 1,3,411,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2061-_jpg.rf.dee2103b69c700bb2ea4de8536626e63.jpg 180,112,266,249,0 307,167,343,247,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2067-_jpg.rf.35287b63f4b67f0d6a2413846215c496.jpg 18,27,416,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2085-_jpg.rf.4c6be32dd574acaa0f26fb43c330ad0d.jpg 91,140,221,416,0 162,127,358,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2093-_jpg.rf.20711703fc267cee90b0f66bad6b05bd.jpg 105,115,321,338,0 334,119,416,200,0 150,64,255,155,0 201,18,251,79,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2094-_jpg.rf.fc24b52b64789082598e4f46c6521d4d.jpg 112,36,329,317,0 105,141,157,207,0 37,84,73,151,0 2,80,38,147,0 357,117,411,185,0 35,78,85,115,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/21-_jpg.rf.8b760ae0f3d659ea9c5e5f9808f7756a.jpg 1,26,276,416,0 234,95,416,412,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2120874746_22ba2561da_o_jpg.rf.6700ac618a3b469f8841047bd18f8191.jpg 1,124,197,410,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2122-_jpg.rf.a47c2019f282ee56b0cacf1bd2218beb.jpg 45,68,359,328,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2127-_jpg.rf.b65b443a2623995173f3c99a1a0ae19f.jpg 50,133,383,296,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2139-_jpg.rf.c3213de3db4758f2b42d95b317e17f2a.jpg 55,129,136,329,0 144,130,226,329,0 249,198,410,364,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2148-_jpg.rf.32b54eb6b501e5c5ba042709e73d9949.jpg 60,115,218,352,0 235,78,302,369,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/218-_jpg.rf.7253b85fd85005764ab32a63b405560c.jpg 34,305,88,391,0 106,305,162,390,0 155,272,219,383,0 232,278,297,381,0 312,289,383,376,0 1,301,28,365,0 50,268,91,312,0 388,270,416,330,0 359,331,415,364,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2180-_jpg.rf.3a6ca68a0451a800ba3d945ed46601e2.jpg 261,265,313,338,0 280,231,328,336,0 118,290,160,356,0 133,260,166,332,0 45,286,75,363,0 64,277,107,356,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2181-_jpg.rf.0f9feb5232d296fdd08942782595edd7.jpg 52,51,353,388,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2198-_jpg.rf.3bfb3b95ea372213252a38c1580e1c24.jpg 188,95,406,400,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2199-_jpg.rf.0ecbc1c4fc6f204629e8015fda5ca34e.jpg 113,5,415,409,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2202-_jpg.rf.80a0bc9ac2b711810db41e78ed09987e.jpg 37,27,267,387,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2217-_jpg.rf.bff00f5f1b649b747c22eaa7a879bab3.jpg 121,72,351,359,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2225-_jpg.rf.bf8094e44699b3af1a81395254d55288.jpg 132,61,351,406,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2227-_jpg.rf.30a51147d72096008f83be97b22ca7ae.jpg 53,36,315,415,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2232-_jpg.rf.f6a75121efcdae195f9e17e642322793.jpg 29,34,411,404,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/224-_jpg.rf.65a1230c0220b04046835985522c30ea.jpg 80,95,374,357,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2273-_jpg.rf.6fa2e677c9719744162ad694412dfdfb.jpg 48,45,307,373,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2282-_jpg.rf.2af75d1d830dd7e8937e6a57fbd4061d.jpg 67,89,319,375,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2284-_jpg.rf.18fa3740049e8b0802f77ea336867613.jpg 86,65,356,395,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2285-_jpg.rf.5633c8a24cc9e3810f18b1806277a79b.jpg 55,13,396,401,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2286-_jpg.rf.a56a755caf796ccd028273284ab720ff.jpg 206,115,358,347,0 49,35,290,350,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2290-_jpg.rf.b4b99112e7ee51b6b7edcbbece0ffa96.jpg 25,51,297,389,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2293-_jpg.rf.6c7deb7f8c62599d54875fcdf627ca2e.jpg 11,15,396,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2306-_jpg.rf.5274119f572ea817cba7236a35f57fd9.jpg 2,31,198,416,0 152,63,397,304,0 153,117,282,222,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/231-_jpg.rf.99a2dd7db4f1fc35bd6f187a652f5b0e.jpg 64,114,249,393,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2316-_jpg.rf.0d2d7e80b3701166cd136f35a1c7964f.jpg 115,2,417,417,0 1,1,165,239,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2327-_jpg.rf.32a0f45ccf630c4e2e5b4b3bfb5d4135.jpg 91,68,384,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2336-_jpg.rf.d7b598529f617c71657038cd54d7071b.jpg 4,47,371,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2359-_jpg.rf.2fcc5f3b2bb76da28c0f322c470a85bd.jpg 71,97,273,320,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2375-_jpg.rf.8ef8f7d976894ba7729ca3fdd19a2a9e.jpg 237,53,389,325,0 8,106,213,271,0 90,37,240,148,0 193,68,318,195,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2377-_jpg.rf.38fe57eda6ee51a26cd06404e1f433f0.jpg 85,214,201,417,0 207,196,356,417,0 118,185,242,380,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2397-_jpg.rf.805abb5f2cb53113a72c8aab7ea8bddb.jpg 64,135,344,389,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2407-_jpg.rf.c07b35c0c1b1a29052d7106f9b78feea.jpg 111,55,417,414,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2414-_jpg.rf.eb5d15f0d0fdb40c701fe4a74c4e0610.jpg 94,131,342,416,0 156,172,236,224,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2416-_jpg.rf.9f0a37fb81bec1c7d9ad0de695aee545.jpg 42,53,370,354,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2422391055_227c0bc508_o_jpg.rf.6ee93e76dd3995796c4923824b0591b2.jpg 1,7,207,417,1 152,118,281,283,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2427-_jpg.rf.858742e2e66980b3a083d63f0d16cba8.jpg 2,5,416,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2431-_jpg.rf.ed0b16a3a042a48950223f8df20bb6d4.jpg 108,76,346,396,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2450-_jpg.rf.f866705c5aff6c562a99dd94ebaf1266.jpg 145,134,248,382,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2466-_jpg.rf.2ea97cbee60d7ea4bc68427008a59fa1.jpg 75,121,265,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2467-_jpg.rf.8bfb879c78eaad0f29b52dc454a171de.jpg 10,111,223,363,0 195,139,364,311,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2484-_jpg.rf.27570d1fbb1ec852b65bc5bf33961d3b.jpg 142,56,291,332,0 61,97,157,230,0 11,88,80,220,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2489-_jpg.rf.78827b1a824dc3df5ce65da421bc0a49.jpg 46,40,357,391,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/2493976401_b0f82a5407_o_jpg.rf.3b61042b7ab09172d347fc8cdffd1888.jpg 177,4,399,416,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/259-_jpg.rf.99e8ad664c0a4240ae8eb921eaf619c0.jpg 57,87,407,415,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/261-_jpg.rf.881894fba9e41ad5aba2226f4d95cf6e.jpg 212,106,343,377,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/282-_jpg.rf.0bd4654b851479ce07a0a1c3637df5e4.jpg 200,70,370,356,0 1,67,189,311,0 149,76,228,156,0 71,133,259,385,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/292-_jpg.rf.60feafe3e6c5f0fa20965374b47247fe.jpg 188,77,280,208,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/300-_jpg.rf.8b0bc66d3fe7d833a0407f4c73fb197a.jpg 177,133,289,259,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/3009846599_85739a8ecd_o_jpg.rf.46f57832749806686373bfa8e41d646f.jpg 5,218,267,417,1 4,2,268,210,1 257,21,410,203,1 232,246,386,417,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/303-_jpg.rf.a43b1bc2b195d49b71d776573b5203a0.jpg 3,4,386,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/305-_jpg.rf.6788319421c4b21e7c87d46c06834bf2.jpg 34,48,348,376,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/31-_jpg.rf.49584d8aa8640664d6aba8ae7d1fa969.jpg 59,62,391,319,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/32-_jpg.rf.f1d229e6f4e1bf7268b1b7f1dbe09c40.jpg 292,176,402,336,0 244,151,320,282,0 143,158,236,295,0 6,182,123,300,0 164,144,263,226,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/326-_jpg.rf.f1b921bc175d17fc10dad515100f8eb2.jpg 55,3,336,386,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/329-_jpg.rf.fd0a2db1e867b835fc59447d3968546e.jpg 17,31,277,342,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/331-_jpg.rf.59ad113f561d03243a5fdeeb95577c51.jpg 292,217,372,315,0 70,216,123,295,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/3434987162_19f3bc49ca_o_jpg.rf.77fb1465fc2dcf464fd246e814e907ae.jpg 233,111,325,417,1 145,100,223,394,1 81,1,140,46,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/353-_jpg.rf.3bae17dc0375a653d7b9e755d6375546.jpg 97,42,336,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/3604944857_22987a13bc_o_jpg.rf.313da9871718d4837868d76090456d0a.jpg 104,39,216,417,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/368-_jpg.rf.7b7a133f95232638f029f90d229b53db.jpg 112,136,252,276,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/3775283893_c2b4b0b8e2_b_jpg.rf.ac5de74972a1834a7ff9e6e6f9b004a5.jpg 30,122,269,403,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/381-_jpg.rf.8e18c38eaac9ac7a791c64e68a3fe841.jpg 1,45,237,370,0 95,74,349,275,0 209,63,365,194,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/39-_jpg.rf.fd970122a6dfafc87dc1ca7b9e81cf4c.jpg 121,17,243,386,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/391-_jpg.rf.dffc471482896c972419767bc5f4cef8.jpg 13,6,336,350,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/4031496200_3e8b41df19_o_jpg.rf.f224adbe17fb0634391e93dcba6054d5.jpg 245,89,313,208,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/405-_jpg.rf.30c3bcf3f8f272fa97d5e9c6d1770c45.jpg 156,121,307,318,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/414-_jpg.rf.0c08a2ab30ae1474b724212ead76852b.jpg 129,15,402,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/415-_jpg.rf.dfa21716d9ec6d47fd744412d0a3745f.jpg 79,171,251,356,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/423-_jpg.rf.1246e7766038d1cf1027642ccd266a24.jpg 229,192,356,332,0 171,154,278,284,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/424-_jpg.rf.9178bbcc8ca991026dc3c1030a502077.jpg 67,53,289,357,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/435-_jpg.rf.110fe5de2dc436f59efab67b199b702d.jpg 133,103,309,335,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/463-_jpg.rf.a061956b3bfc122f0367c6de48621e34.jpg 122,61,259,318,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/464-_jpg.rf.c1b9ad09537a5a46f3d45dbadc60e716.jpg 141,41,259,260,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/468-_jpg.rf.dc56d0b977ff7918cb3488822fa11295.jpg 111,14,255,377,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/494-_jpg.rf.4adb2dec4c69c1871513ba74f8a6bb53.jpg 117,123,332,305,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/523-_jpg.rf.abe833aa222e38c901855fd8e102dce4.jpg 27,66,371,310,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/537-_jpg.rf.565231f7ae3631a45fec2aec3784d281.jpg 49,8,415,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/557-_jpg.rf.cca293ffec607df1cf767e8c8658dac5.jpg 113,176,285,387,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/582-_jpg.rf.ee0036a77a5907bad15faca141560efa.jpg 58,59,261,313,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/585-_jpg.rf.80d6051b0a52c004dd73c34d8b672d34.jpg 36,32,346,338,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/60-_jpg.rf.936437ff7f29c57aa3e5b195e0f54b68.jpg 130,29,292,298,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/600-_jpg.rf.f12acdae711b146641a0b2f89b7c3513.jpg 32,9,389,311,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/606-_jpg.rf.c4c4179f1367d78fe5e122e654531fef.jpg 86,23,346,386,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/607-_jpg.rf.eaa72243c63cd51e34946ca21daa0e43.jpg 12,89,379,398,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/6180037224_0da99fe38c_o_jpg.rf.eddad54b1ed62a68e4c8dffa5543ae18.jpg 126,48,276,414,1 305,98,393,413,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/62-_jpg.rf.bdb160a2f37990958a8ad1599cacec35.jpg 107,27,303,310,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/621-_jpg.rf.7fdfb76ff57b2e52fc04a87feeab7ef6.jpg 155,16,341,357,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/622-_jpg.rf.e2a1799a95aef5d198dbbf34129b177e.jpg 138,145,224,376,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/6249652376_140f182f31_o_jpg.rf.b65f44ce4ff28fc951d28f3be81549d1.jpg 166,79,265,244,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/634-_jpg.rf.b156e5bedd28859e1a66fa9d71a0c052.jpg 142,153,264,324,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/646-_jpg.rf.3b5e6e0359b7a4302ee23a75eca6c918.jpg 12,203,103,334,0 117,182,221,335,0 154,186,277,351,0 284,190,344,328,0 335,214,405,316,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/65-_png.rf.171b4905f10a8dc3d53480d4dd3c659b.jpg 101,153,132,329,0 64,231,104,267,0 212,239,311,338,0 203,246,255,359,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/6599609303_f69e5daed5_o_jpg.rf.b30da0f85a25660290e46d4cbea75898.jpg 203,87,254,177,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/663-_jpg.rf.52f282ad46eefe5de22bad27437270ce.jpg 1,48,338,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/683-_jpg.rf.ec95ccfe643921e8d0afeb5fa8311720.jpg 76,27,405,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/69-_jpg.rf.78c95130323170c94124495921b84ad1.jpg 60,36,343,331,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/690-_jpg.rf.b958d508a81287354faba50fbbe513ce.jpg 38,15,352,398,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/6950800665_c4af89685a_o_jpg.rf.1d1c4df1c482fd0cf96718a296a6f55e.jpg 65,54,257,248,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/70-_jpg.rf.3f54a9de7397a77942fcd0300a7b1c46.jpg 222,147,279,270,0 26,149,74,243,0 269,162,302,230,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/711-_jpg.rf.258eca786b994e8fcbe28619e74504fe.jpg 43,32,214,320,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/712-_jpg.rf.3fa7d4d3817764e881967e8a061959e7.jpg 98,8,378,404,0 20,142,213,334,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/722-_jpg.rf.55985c02f0f895b1bd3fba6e621d0375.jpg 71,47,353,351,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/745-_jpg.rf.29868ee848b5246a9e64cb9f775dd416.jpg 61,43,414,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/746-_jpg.rf.2befadf7b674a63fd157a34aa9d08846.jpg 125,12,319,401,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/748-_jpg.rf.0fe5fa47493ba1fef7cdd6b25a21cf99.jpg 45,9,417,415,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/749-_jpg.rf.26ce24a09a5a8ede452980d70d3e06af.jpg 179,51,261,352,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/750-_jpg.rf.414fb2e7492a475ab7e1b79961b52ec3.jpg 42,27,346,338,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/7563971110_66c50c8e8f_b_jpg.rf.82949b3c3073cd3b04d3b073de0b3c75.jpg 70,5,219,246,1 214,69,374,310,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/7564032822_76c96b82b9_b_jpg.rf.ed1c45d679ff4ccac83402a499ce053c.jpg 80,160,192,331,1 125,6,279,242,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/759-_jpg.rf.bb6922bec85bb2b3030eba0a70951b5c.jpg 47,139,157,348,0 97,57,345,377,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/771-_jpg.rf.f5b3010ae306e173a6caa5f54a014e27.jpg 189,157,225,251,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/7758553594_6585948a4c_o_jpg.rf.f6b577476a7dfa2a14f0a345666c5f31.jpg 231,237,301,337,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/780-_jpg.rf.3fc5faa28156a4e824a288bb681a35f8.jpg 105,51,318,334,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/787-_jpg.rf.9a45d586fcc14cf597878215a42b55d8.jpg 83,19,399,388,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/7907361016_b000a73479_o_jpg.rf.e1efa829764800bf25c95c26b3162317.jpg 234,7,303,114,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/803-_jpg.rf.2c788b6c6565d836a1cf4a732ca4f2c7.jpg 1,3,354,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/837-_jpg.rf.f81ce7d9a1cb847d01c574efd13f5904.jpg 1,21,371,349,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/8449277053_e9d302e18e_o_jpg.rf.028c7c07c060fa634c976988116f0e14.jpg 299,52,342,123,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/85-_jpg.rf.1649b29b2605467b7d42af342bd78d80.jpg 108,87,307,333,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/8559070501_61390334ea_o_jpg.rf.66bc04c6352217a4b29b64709d238405.jpg 99,21,140,88,1 177,52,235,133,1 286,231,355,309,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/858-_jpg.rf.a84318224a52ffb2cad7de40caa9ec86.jpg 76,66,297,313,0 223,98,349,283,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/8597167783_421cb72b77_o_jpg.rf.82c46e42cef3ae8bd8616843e756a0c0.jpg 257,123,298,178,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/863-_jpg.rf.ef2e06b839112c6b77c59cc04b6a481f.jpg 268,71,413,338,0 9,28,320,331,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/867-_jpg.rf.0b20490883305cde4427b0c5cc4138ec.jpg 1,67,257,405,0 99,138,253,417,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/869-_jpg.rf.0c6bf60616ed8dbf3f1e7f61ee5c2f16.jpg 67,69,308,293,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/8713586317_b38a63f4a8_o_jpg.rf.c75b465384d00a3199f4f0abd1450ef4.jpg 80,58,109,98,1 115,89,141,121,1 232,197,265,251,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/878-_jpg.rf.4aef7219d9509b7ad5faec6b678107e7.jpg 135,161,226,252,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/892-_jpg.rf.3e5d6e07001f6c24c8b95deb041fa682.jpg 217,102,343,264,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/897-_jpg.rf.4f6857a3750cfa9ff7286f5fe1c9ee95.jpg 23,91,181,416,0 150,49,308,387,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/900-_jpg.rf.d00877fe97aa55e8194164d1ee458bf8.jpg 55,34,302,357,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/9113634994_798ac0a8dd_o_jpg.rf.2a5c9dd58c48483763e081ff54afa824.jpg 144,40,243,156,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/916-_jpg.rf.0fb96ca3c5fc5a67ea6ec94cf4a0a697.jpg 18,9,304,385,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/926-_jpg.rf.fc9ba518ecf5277086e16cdff1204af7.jpg 24,8,221,218,0 101,55,348,277,0 97,201,301,377,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/927-_jpg.rf.cf78686e5f15df114a12966e73b60620.jpg 171,62,323,239,0 217,113,389,280,0 214,221,360,355,0 3,162,113,257,0 38,131,192,288,0 58,232,194,330,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/928-_jpg.rf.f9fff8593d88968636750a4e44647ddd.jpg 173,166,275,259,0 210,133,296,231,0 293,130,405,234,0 289,192,396,278,0 188,112,265,188,0 62,174,164,287,0 3,187,53,249,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/937-_jpg.rf.9e47ed53e43b5f65ae29eac7898457dc.jpg 87,18,282,386,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/946-_jpg.rf.ffe3bb603f575a4e161e70f301c7ad35.jpg 108,54,396,403,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/955-_jpg.rf.8bdfd8fef41eccf6a5a20a4d88820350.jpg 65,115,164,313,0 101,91,247,304,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/958-_jpg.rf.435fb04f9e2d117e86d45182c8305b5a.jpg 111,120,269,361,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/96-_jpg.rf.4f6a36264f859f0ce388b1f608971a30.jpg 84,26,239,417,0 199,79,347,373,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/962-_jpg.rf.eea69c626b7906e4808652c3aaae1f5c.jpg 145,182,324,328,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/9627059366_d6007dda86_o_jpg.rf.8129bb685c52034175555c41497a5645.jpg 176,68,235,115,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/9644050864_29357e2ae6_o_jpg.rf.982afe50101ca864be20a7c2d4bc5128.jpg 178,19,240,157,1
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/968-_jpg.rf.dc968fd59272021b13bc2722833b69a8.jpg 21,27,404,416,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/986-_jpg.rf.94203887e9c084c4ae32bd45d33da538.jpg 61,47,417,395,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/987-_jpg.rf.7b0f884e072acd24b1bb50c0ae6393ad.jpg 212,124,364,326,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/99-_jpg.rf.dd2a8236ee1047fb8c1f6da88cc7734f.jpg 103,47,372,373,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/993-_jpg.rf.8a9f05e8501e97ef2cd1b2e69b879d36.jpg 173,128,305,333,0
+C:\Users\prade\Documents\final_project\yolo_deer_detection\yolov3_deer_detection/custom_dataset/test/999-_jpg.rf.f29f3b3a7805dde4d42b46e39c2ab1f0.jpg 115,37,413,412,0
