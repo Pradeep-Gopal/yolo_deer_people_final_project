@@ -4,6 +4,8 @@
 
 This repository consists of different YOLO object detection algorithms and steps on how to make them work on Jetson computers.
 
+Google colab notebooks, trained models and datasets can be found here [link](https://drive.google.com/drive/folders/1fCbKae9NmMDIYQtCi8dkCWfjtlI-tBDp?usp=sharing)
+
 The models were tested on Ubuntu, Windows 10 and deployed on Jetson Nano, Jetson TX2 running Ubuntu 18.04
 
 - Ubuntu 18.04

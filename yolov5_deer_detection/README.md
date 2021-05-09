@@ -25,8 +25,7 @@ cd yolov5_deer_detection
 ```
 
 Download the yolov5.tar.xz from the following link and extract the contents to yolov5_deer_detection
-https://drive.google.com/file/d/1P24Qy8hztbX-OrZ5s59RphB8BWAN2cV3/view?usp=sharing
-
+https://drive.google.com/file/d/13ktWqDcG0TGm7G-tk3CoFHR7Di00M1eO/view?usp=sharing
 To run the detection script,
 
 ```

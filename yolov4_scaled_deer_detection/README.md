@@ -34,7 +34,7 @@ cd yolov4_scaled_deer_detection
 
 Download the best.pt from the following link and extract the contents to yolov4_scaled_deer_detection
 
-[link](https://drive.google.com/file/d/12j-kjEqsbc0Y8cnwbmRwlyJWijihM-AS/view?usp=sharing)
+[link](https://drive.google.com/file/d/1mbmg1j3dorVJZ_ntSDCHlRLjXRkYM1mL/view?usp=sharing)
 
 To run the detection script,
 

@@ -45,7 +45,7 @@ sudo jetson_clocks
 
 5. Download the trained weights - custom-yolov4-detector_best.weights and config for two classes - custom-yolov4-detector.cfg for yolov4 to detect people and deer from Google Drive and save it in the darknet directory
 
-[download link](https://drive.google.com/drive/folders/1IJUCA0dISDsKr61UAFPrdz0S27UpNLjU?usp=sharing)
+[download link](https://drive.google.com/file/d/1BvSksp_yA3uLh2NPG2PYALw1J_ZEzhuR/view?usp=sharing)
 
 6. Download test dataset and store it in the darknet directory
 [download link](https://drive.google.com/file/d/152A5n42lOL66NeNRTdyzUWygMnWD0e4T/view?usp=sharing)

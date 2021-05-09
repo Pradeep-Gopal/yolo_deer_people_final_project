@@ -26,10 +26,10 @@ cd yolov3_tiny_deer_detection
 ```
 
 Download the checkpoints folder and extract it inside yolov3_deer_detection
-[download link](https://drive.google.com/drive/folders/1_xoawc89jBUXr61U86vLZumJc0DuO8Oo?usp=sharing)
+[download link](https://drive.google.com/drive/folders/1AXikSnNwho7H-Wgak03yy1sDJo5WPYT1?usp=sharing)
 
 Download the model_data folder and extract it inside yolov3_deer_detection
-[download link](https://drive.google.com/drive/folders/1wpdd4C1cuSHxCbxYsERJv18OPz22EotE?usp=sharing)
+[download link](https://drive.google.com/drive/folders/1vimIAGmWb5k-sQ1wG9HEMgAugBD9Zim9?usp=sharing)
 
 
 To run the detection script,
